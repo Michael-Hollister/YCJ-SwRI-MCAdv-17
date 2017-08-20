@@ -1,0 +1,10 @@
+tile.examplemod:ruby_block.name=Ruby Block
+item.examplemod:ruby_item.name=Ruby
+tile.examplemod:ruby_ore.name=Ruby Ore
+item.examplemod:ruby_sword.name=Ruby Sword
+item.examplemod:ruby_chestplate.name=Ruby Chestplate
+item.examplemod:ruby_leggings.name=Ruby Leggings
+item.examplemod:rubby_boots.name=Ruby Boots
+item.examplemod:ruby_helmet.name=Ruby Helmet
+item.examplemod:human_entity.name=Human Helper
+tile.examplemod:lucky_block.name=Lucky Block

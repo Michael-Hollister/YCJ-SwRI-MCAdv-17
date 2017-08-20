@@ -1,0 +1,55 @@
+tile.examplemod:ruby_block.name=Ruby Block
+tile.examplemod:ruby_ore.name=Ruby Ore
+
+tile.examplemod:saphire_block.name=Saphire Block
+tile.examplemod:saphire_ore.name=Saphire Ore
+
+tile.examplemod:onyx_block.name=Onyx Block
+tile.examplemod:onyx_ore.name=Onyx Ore
+
+tile.examplemod:great_block.name=Great Block
+
+tile.examplemod:lucky_block.name=Lucky Block
+
+item.examplemod:ruby_item.name=Ruby
+item.examplemod:saphire_item.name=Saphire
+item.examplemod:onyx_item.name=Onyx
+
+
+item.examplemod:Multitool.name=Multi Tool
+
+
+item.examplemod:ruby_battleaxe.name=Ruby Battleaxe
+item.examplemod:saphire_battleaxe.name=Saphire Battleaxe
+item.examplemod:onyx_battleaxe.name=Onyx Battleaxe
+
+
+
+
+item.examplemod:Gapple.name=Gapple
+
+
+item.examplemod:ruby_helmet.name=Ruby Helmet
+item.examplemod:ruby_chestplate.name=Ruby Chestplate
+item.examplemod:ruby_legging.name=Ruby Legging
+item.examplemod:ruby_boots.name=Ruby Boots
+
+item.examplemod:saphire_helmet.name=Saphire Helmet
+item.examplemod:saphire_chestplate.name=Saphire Chestplate
+item.examplemod:saphire_legging.name=Saphire Legging
+item.examplemod:saphire_boots.name=Saphire Boots
+
+item.examplemod:onyx_helmet.name=Onyx Helmet
+item.examplemod:onyx_chestplate.name=Onyx Chestplate
+item.examplemod:onyx_legging.name=Onyx Legging
+item.examplemod:onyx_boots.name=Onyx Boots
+
+item.examplemod:great_helmet.name=Great Helmet
+item.examplemod:great_chestplate.name=Great Chestplate
+item.examplemod:great_legging.name=Great Legging
+item.examplemod:great_boots.name=Great Boots
+item.examplemod:great_gem.name=Great Gem
+
+item.examplemod:miners_pick.name=Miners Pick
+item.examplemod:great_battlehammer.name=Great Battlehammer
+item.examplemod:great_hoe.name=Great Hoe
